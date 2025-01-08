@@ -37,6 +37,10 @@ body {
 display: flex;
 justify-content: center;
 padding: 0%;
+
+.quartier {
+    box-shadow: #333;
+}
 }
 
 h1, h2 {
